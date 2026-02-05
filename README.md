@@ -4,7 +4,7 @@ Custom email infrastructure for managing multiple domains and email accounts.
 
 ## 📚 Documentation
 
-- **[README.md](README.md)** - Complete setup guide for Genesis (start here!)
+- **[GENESIS_SETUP_GUIDE.md](GENESIS_SETUP_GUIDE.md)** - Complete setup guide for Genesis (start here!)
 - **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - Cheat sheet and credentials template
 - **[technical_plan.md](technical_plan.md)** - Technical architecture details
 
