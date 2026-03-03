@@ -23,3 +23,10 @@ logs/
 # Ignore temporary files
 tmp/
 temp/
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
